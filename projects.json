@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Spotify Clone",
+    "desc": "Crafted a Spotify-like website with features such as playing/pausing songs and seamless track navigation, show-casing proficiency in building user-friendly interfaces.",
+    "image": "clone",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/Vanshikamodi/SpotifyClone"
+    }
+  },
+  {
+    "name": "Simon Game",
+    "desc": "Crafted a Simon game using HTML, CSS, and JavaScript, showcasing proficiency in front-end development and game logic implementation.",
+    "image": "sg",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/Vanshikamodi/SIMON-GAME"
+    }
+  },
+  {
+    "name": "Tic - Tac - Toe",
+    "desc": "Designed a two-player Tic-Tac-Toe game that offers a simple yet satisfying experience for players designed using react.",
+    "image": "tictactoe",
+    "category": "react",
+    "links": {
+    "code": "https://github.com/Vanshikamodi/Tic-Tac-Toe-Game"
+    }
+  }
+  
+   
+]
